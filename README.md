@@ -30,10 +30,14 @@ https://help.github.com/en/github/importing-your-projects-to-github/adding-an-ex
 5. Create GitHub Actions Workflow of deploying a the React App to Surge, there is a bug in the workflow your job is to debug it.
 
 6. When the React App is running locally and remotely on the surge we will start learning React from the following tutorial:
+
 https://daveceddia.com/react-tutorial/
 
 Note: We will start writing React code in App.js and other component files
 
+7. Once you have completed this assignment and everthing is running please report it with your github repo UTL and surge website URL in:
+
+https://github.com/panacloud/Base-React-App/issues
 
 
 
