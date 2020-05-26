@@ -1,4 +1,4 @@
-# React Base App
+# React Base App for Bootcamp 2020 Class 2 Onwards: Learning React
 
 We will create a React base app to start learning React
 
@@ -38,7 +38,9 @@ Note: Our code will start from App.js and other component files
 
 
 //********************************************
+
 The Following documentation is auto generated
+
 //********************************************
 
 
