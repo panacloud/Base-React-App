@@ -32,7 +32,7 @@ https://help.github.com/en/github/importing-your-projects-to-github/adding-an-ex
 6. When the React App is running locally and remotely on the surge we will start learning React from the following tutorial:
 https://daveceddia.com/react-tutorial/
 
-Note: Our code will start from App.js and other component files
+Note: We will start writing React code in App.js and other component files
 
 
 
