@@ -10,7 +10,7 @@ https://github.com/facebook/create-react-app
 
 Use the following command:
 
-npx create-react-app react-base-app
+`npx create-react-app react-base-app`
 
 
 2. Open created directory/project in VS Code
@@ -18,9 +18,10 @@ npx create-react-app react-base-app
 
 3. Give following commands to view app in browser:
 
+```
 cd react-base-app
-
 npm start
+```
 
 
 4. Now we will be adding the project we just created to GitHub using the command line:
